@@ -1,6 +1,6 @@
 # Privacy Policy for Georgian Emoji Movies
 
-**Last Updated:** [16.11.2025]
+**Last Updated:** 16.11.2025
 
 ## Introduction
 
@@ -22,14 +22,14 @@ Our App uses the following third-party services that may collect information:
 #### Google AdMob
 - We use Google AdMob to display advertisements in our App.
 - AdMob may collect and use data about your device and app usage to provide personalized ads.
-- For more information about AdMob's data practices, please visit: https://policies.google.com/privacy
+- For more information about AdMob's data practices, please visit: [Google AdMob Privacy](https://policies.google.com/privacy)
 
 #### Firebase (Google)
 - We use Google Firebase for:
   - Storing leaderboard data (usernames and scores)
   - Analytics to understand app usage
 - Firebase may collect device information and usage analytics.
-- For more information about Firebase's data practices, please visit: https://firebase.google.com/support/privacy
+- For more information about Firebase's data practices, please visit: [Firebase Privacy](https://firebase.google.com/support/privacy)
 
 ## How We Use Your Information
 
@@ -92,8 +92,9 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** [Jambuli.Tchanturia.1@btu.edu.ge]
-**Website:** [https://github.com/Jaba25/emojigame-privacy]
+**Email:** Jambuli.Tchanturia.1@btu.edu.ge  
+**Website:** [https://github.com/Jaba25/emojigame-privacy](https://github.com/Jaba25/emojigame-privacy)
+
 ## Consent
 
 By using our App, you consent to our Privacy Policy and agree to its terms.
